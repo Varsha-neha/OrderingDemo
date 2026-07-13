@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test/coverage reports
+.pytest_cache/
+.coverage
+coverage.xml
+report.html
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS files
+*.log
+*.DS_Store
+Thumbs.db
